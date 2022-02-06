@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MS-ISLAM
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning python django and c++...
+- 🌱 I’m currently learning c++, python and web Devlopment.
 
 
 <!---
